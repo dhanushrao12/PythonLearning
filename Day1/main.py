@@ -1,0 +1,5 @@
+print("Hello People! Welcome to my first Python project")
+print("Band Name Generator")
+city = input("Enter the name of your city: \n")
+pet = input("Enter the name of your pet: \n")
+print(f"Your Band name could be {city} {pet}")
